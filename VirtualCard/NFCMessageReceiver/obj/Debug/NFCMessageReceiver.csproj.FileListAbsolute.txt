@@ -1,0 +1,36 @@
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\NFCMessageReceiver.dll
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\NFCMessageReceiver.pdb
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\AppManifest.xaml
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\Bin\Debug\NFCMessageReceiver_Debug_AnyCPU.xap
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\App.g.cs
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\MainPage.g.cs
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.g.resources
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.Resources.AppResources.resources
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.csproj.GenerateResource.Cache
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.dll
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.pdb
+c:\users\andy\documents\visual studio 2012\Projects\NFCMessageExchange\NFCMessageReceiver\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\NFCMessageReceiver.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\NFCMessageReceiver.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\Bin\Debug\NFCMessageReceiver_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\NFCMessageReceiver.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart LIVE\S12 NFC and Bluetooth Demos\2 - NFCMessageExchange\NFCMessageReceiver\obj\Debug\XapCacheFile.xml

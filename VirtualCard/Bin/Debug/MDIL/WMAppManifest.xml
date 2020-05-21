@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="sw-KE" />
+    <Language code="en" />
+    <Language code="en-GB" />
+    <Language code="en-US" />
+  </Languages>
+  <App xmlns="" ProductID="{8c03b629-6970-4705-9b16-ef8679dc2886}" Title="VirtualCard" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="VirtualCard author" Description="Sample description" Publisher="VirtualCard" PublisherID="{a1d217a3-0421-4691-9f06-207f8729c010}">
+    <IconPath IsRelative="true" IsResource="false">Credit-Card-icon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_WALLET" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+      <ExtendedTask Name="BackgroundTask">
+        <BackgroundServiceAgent Specifier="WalletAgent" Name="WalletAgent" Source="VirtualCardAgent" Type="VirtualCard.MyWalletAgent" />
+      </ExtendedTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="VirtualCardToken" TaskName="_default">
+        <TemplateIconic>
+          <SmallImageURI IsRelative="true" IsResource="false">Credit-Card-icon.png</SmallImageURI>
+          <Count>0</Count>
+          <IconImageURI IsRelative="true" IsResource="false">Credit-Card-icon.png</IconImageURI>
+          <Title>VirtualCard</Title>
+          <Message></Message>
+          <BackgroundColor></BackgroundColor>
+          <HasLarge>false</HasLarge>
+          <LargeContent1></LargeContent1>
+          <LargeContent2></LargeContent2>
+          <LargeContent3></LargeContent3>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateIconic>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->
